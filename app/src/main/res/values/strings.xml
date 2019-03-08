@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MarkCalculator</string>
+    <string name="CourseName1">%S</string>
+
+    <string-array name="Sem1">
+        <item>Mathematics for Computing</item>
+        <item>Programming Principles</item>
+        <item>Operating Systems Fundamentals</item>
+        <item>Network Foundations</item>
+        <item>Composition and Rhetoric</item>
+    </string-array>
+
+    <string-array name="Sem2">
+        <item>Mobile Computing</item>
+        <item>Scripting and Web Languages</item>
+        <item>Linear Algebra</item>
+        <item>Interactive Appl'n Development</item>
+        <item>Intro to Studies in Creativity</item>
+    </string-array>
+
+    <string-array name="Sem3">
+        <item>Database Modeling</item>
+        <item>Intro to Security</item>
+        <item>Programming Languages</item>
+        <item>Mobile Application Devices</item>
+        <item>Wireless Telecommunications</item>
+    </string-array>
+
+    <string-array name="Semester">
+        <item>Winter</item>
+        <item>Summer</item>
+        <item>Fall</item>
+    </string-array>
+</resources>
